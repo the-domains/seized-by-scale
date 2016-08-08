@@ -1,4 +1,3 @@
-layout_spectrum: 0.19272567378357053
 typography_spectrum: 0.798714738804847
 color:
   brandStrength: 0.7231773044914007
@@ -11,5 +10,7 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.19272567378357053
 name: seized by scale
 title: when small is good
+description: miniature journeys
