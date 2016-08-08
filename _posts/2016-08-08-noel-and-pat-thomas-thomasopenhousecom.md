@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-08T15:52:15.712Z'
+datePublished: '2016-08-08T15:52:15.725Z'
 author: []
 via: {}
-dateModified: '2016-08-08T15:51:26.464Z'
+dateModified: '2016-08-08T15:51:17.648Z'
 title: ''
 publisher: {}
 description: noel & pat thomas - thomasopenhouse.com
@@ -16,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![noel & pat thomas - thomasopenhouse.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a58120-2aa9-4a7a-8105-3823e1cd731b.jpg)
+![noel & pat thomas - thomasopenhouse.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/395c7597-c08b-450b-98e1-e8784424e00d.jpg)
